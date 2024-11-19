@@ -1,0 +1,68 @@
+.dynamic-background {
+    height: 100vh;
+    transition: background-image 1s ease-in-out;
+  }
+
+.glitter-border {
+    border: 10px, solid transparent;
+    border-image: url('https://cdn.vectorstock.com/i/750p/98/23/pink-glitter-background-seamless-pattern-vector-7319823.avif') 30 stretch;
+    background-image: url(https://kawaiihoshi.com/wp-content/uploads/2022/09/peach-goma-sakura-kawaii-hoshi.jpg);
+    color: darkorchid;
+    text-align: center;
+    font-family: Franklin Gothic Medium;
+    font-style: italic;
+    font-size: 75px;
+ }
+
+body {
+    background-image: url("https://kawaiihoshi.com/wp-content/uploads/2022/09/peach-goma-sakura-kawaii-hoshi.jpg");
+ }
+
+ p {
+    font-family: '';
+    font-size: 30px;
+    border: pink;
+    padding-top: 20px;
+    color:  lightgoldenrodyellow;
+ }
+
+.colored-box {
+    background-color: darkorchid; /* Replace with your desired color */
+    padding: 20px; /* Add space inside the box */
+    border-radius: 5px; /* Optional: round the corners */
+    border: 1px solid #ccc; /* Optional: add a border */
+ }
+ 
+.Good {
+    background-color: lavender; /* Replace with your desired color */
+    padding: 20px; /* Add space inside the box */
+    border-radius: 5px; /* Optional: round the corners */
+    border: 1px solid #ccc; /* Optional: add a border */
+    font-family: '';
+    font-size: 50px;
+    border: pink;
+    padding-top: 20px;
+    color:  green;
+}
+
+.static {
+    background-color: lavender; /* Replace with your desired color */
+    padding: 20px; /* Add space inside the box */
+    border-radius: 5px; /* Optional: round the corners */
+    border: 1px solid #ccc; /* Optional: add a border */
+    font-family: '';
+    font-size: 30px;
+    border: pink;
+    padding-top: 20px;
+    color:  green;
+}
+
+.big-link {
+    font-size: 25px; /* Increase font size */
+    font-weight: bold; /* Optional: make text bold */
+    padding: 10px; /* Optional: add padding */
+    text-decoration: none; /* Optional: remove underline */
+  }
+  
+
+  
